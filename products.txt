@@ -1,0 +1,42 @@
+[
+  {
+    "name": "nuevo",
+    "description": "descriopciopn del producto",
+    "code": 4,
+    "price": 10,
+    "thumbnail": "www.imagenes.com/nuevo",
+    "stock": 25,
+    "id": 1,
+    "timestamp": 1655864572543
+  },
+  {
+    "name": "nuevo2",
+    "description": "descriopciopn del producto",
+    "code": 4,
+    "price": 10,
+    "thumbnail": "www.imagenes.com/nuevo",
+    "stock": 25,
+    "id": 2,
+    "timestamp": 1655864572547
+  },
+  {
+    "id": 3,
+    "timestamp": 1655864572548,
+    "name": "333333",
+    "description": "descriopciopn del producto",
+    "code": 4,
+    "price": 10,
+    "thumbnail": "www.imagenes.com/33333",
+    "stock": 25
+  },
+  {
+    "name": "nuevo4",
+    "description": "descriopciopn del producto",
+    "code": 4,
+    "price": 10,
+    "thumbnail": "www.imagenes.com/nuevo",
+    "stock": 25,
+    "id": 4,
+    "timestamp": 1655864572550
+  }
+]
